@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653475328 source:d:\backup\documents\coding\datacompression\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
